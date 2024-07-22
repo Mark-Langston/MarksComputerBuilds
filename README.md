@@ -29,7 +29,7 @@ Watch this [video](https://youtu.be/7iMYKnnWWLA) to see the Computer Build Manag
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/Mark-Langston/computer-build-manager.git
+    git clone https://github.com/Mark-Langston/MarksComputerBuilds.git
     ```
 
 2. **Set Up the Database**
