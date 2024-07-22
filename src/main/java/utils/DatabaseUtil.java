@@ -13,7 +13,7 @@ import java.util.List;
 public class DatabaseUtil {
     private static final String URL = "jdbc:postgresql://localhost:5432/MarksComputerBuildsDB";
     private static final String USER = "postgres";
-    private static final String PASSWORD = "Mastercode##99";
+    private static final String PASSWORD = "DB root password goes here";
 
     static {
         try {
